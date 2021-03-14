@@ -1,7 +1,8 @@
-# Social-Media-Data-Mining-&-Analytics
+## Social Media Data Mining & Analytics
 
 ![1118824857](https://user-images.githubusercontent.com/4604882/111078543-377ec780-84b3-11eb-925f-1a4e99b37507.jpg)
 
+# Description:
 
 This is a simple reposting of the code from the book Social Media Data Mining & Analytics by Gabor Szabo, Gungor Polatkan, Oscar Boykin, & Antonios Chalkiopoulos. It includes code in Python, R, & Scala. This code at the time of writing is available only as a zip file from the Wiley site related to this book. But this being seemingly only available there, it is possible the code could be lost from the site (which has happened to the code for other books on the Wiley site & is not a trivial concern). So I am making the code available, as is at the time of download, and adding it to github. The second reason for adding the code is that making it available as is with the directories setup as it looks after unzipping the code from Wiley, adds this set of code to the github system, with the benefits that adds to a directory of code.
 
