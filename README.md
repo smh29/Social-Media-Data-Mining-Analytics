@@ -1,4 +1,4 @@
-# Social-Media-Data-Mining-Analytics
+# Social-Media-Data-Mining-&-Analytics
 
 ![1118824857](https://user-images.githubusercontent.com/4604882/111078543-377ec780-84b3-11eb-925f-1a4e99b37507.jpg)
 
